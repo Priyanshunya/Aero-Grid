@@ -1,4 +1,4 @@
-# 🌬️ AeroGrid: Hyper-Local Air Quality Intelligence
+# 🌬️ AeroGrid: Hyper-Local Air Quality Intelligence system
 **Built by Team Vision.exe | Civic Tech & Urban Solutions**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
