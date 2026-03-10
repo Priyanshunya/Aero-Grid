@@ -74,5 +74,5 @@ void loop() {
   Serial.print("|MQ135:"); Serial.print(val_mq135);
   Serial.print("|PM:"); Serial.println(dustDensity);
 
-  delay(2000); // send every 2 secs
+  delay(2000); // send every 2 seconds
 }
