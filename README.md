@@ -1,7 +1,9 @@
 # 🏙️ AeroGrid: Hyper-Local Air Quality Intelligence
-**Built by Team Vision.exe**
+**Built by Team Vision.exe | Civic Tech   Urban Solutions**
 
-AeroGrid is a zero-OpEx, hyper-local air quality mesh network. We replace expensive, sparse city-wide monitoring stations with a frugal grid of ESP32-LoRa nodes. By feeding multi-sensor telemetry into a central AI engine, we provide municipal administrators with **ward-level source apportionment** (e.g., separating construction dust from traffic emissions) for targeted civic action.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Hardware](https://img.shields.io/badge/Hardware-ESP32%20%7C%20LoRa-blue) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Random_Forest-green) ![Civic Tech](https://img.shields.io/badge/Domain-Civic_Tech-orange)
+
+> AeroGrid is a zero-OpEx, hyper-local air quality mesh network. We replace expensive, sparse city-wide monitoring stations with a frugal grid of ESP32-LoRa nodes. By feeding multi-sensor telemetry into a central AI engine, we provide municipal administrators with **ward-level source apportionment** (e.g., separating construction dust from traffic emissions) for targeted civic action.
 
 ---
 
@@ -34,7 +36,4 @@ This repository contains the Proof of Concept (PoC) architectural logic and code
 ## 🚀 Project Status
 AeroGrid is currently in the **Phase 1 Proof-of-Concept** stage for the India Innovates 2026 evaluation. 
 
-The files in this repository demonstrate the system's structural logic, sensor data handling, and AI inference pipeline. Full production deployment binaries, live dataset links, and local compiling instructions will be released upon moving to the hardware deployment phase. 
-
----
-*Built for the India Innovates 2026 Hackathon.*
+The files in this repository demonstrate the system's structural logic, sensor data handling, and AI inference pipeline. Full production deployment binaries, live dataset links, and local compiling instructions will be released upon moving to the deployment phase.
